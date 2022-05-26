@@ -1,6 +1,6 @@
 {
   "name": "test-directory-james",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "this is a test directory",
   "main": "index.js",
   "scripts": {
