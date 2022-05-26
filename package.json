@@ -1,0 +1,19 @@
+{
+  "name": "test-directory",
+  "version": "1.0.0",
+  "description": "this is a test directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameslock86/npm-package.git"
+  },
+  "author": "james lockwood <ksjjl05@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameslock86/npm-package/issues"
+  },
+  "homepage": "https://github.com/jameslock86/npm-package#readme"
+}
