@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jameslock86/npm-package/issues"
   },
-  "homepage": "https://github.com/jameslock86/npm-package#readme"
+  "homepage": "https://github.com/jameslock86/npm-package#readme",
+  "dependencies": {
+    "test-directory": "^1.0.1"
+  }
 }
